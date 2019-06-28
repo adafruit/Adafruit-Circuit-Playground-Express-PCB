@@ -1,6 +1,6 @@
 ## Adafruit Circuit Playground Express PCB
 
-<a href="http://www.adafruit.com/products/3333"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/3333"><img src="assets/3333.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit Circuit Playground Express. Format is EagleCAD schematic and board layout
